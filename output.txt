@@ -1,0 +1,129 @@
+0.209729 M parameters
+step 0: train loss 4.4116, val loss 4.4022
+step 100: train loss 2.6568, val loss 2.6670
+step 200: train loss 2.5091, val loss 2.5059
+step 300: train loss 2.4196, val loss 2.4336
+step 400: train loss 2.3507, val loss 2.3569
+step 500: train loss 2.2967, val loss 2.3129
+step 600: train loss 2.2410, val loss 2.2500
+step 700: train loss 2.2053, val loss 2.2189
+step 800: train loss 2.1635, val loss 2.1868
+step 900: train loss 2.1239, val loss 2.1500
+step 1000: train loss 2.1037, val loss 2.1305
+step 1100: train loss 2.0694, val loss 2.1176
+step 1200: train loss 2.0381, val loss 2.0801
+step 1300: train loss 2.0247, val loss 2.0645
+step 1400: train loss 1.9931, val loss 2.0377
+step 1500: train loss 1.9696, val loss 2.0301
+step 1600: train loss 1.9621, val loss 2.0478
+step 1700: train loss 1.9426, val loss 2.0149
+step 1800: train loss 1.9075, val loss 1.9939
+step 1900: train loss 1.9122, val loss 1.9897
+step 2000: train loss 1.8863, val loss 1.9962
+step 2100: train loss 1.8722, val loss 1.9766
+step 2200: train loss 1.8620, val loss 1.9645
+step 2300: train loss 1.8560, val loss 1.9513
+step 2400: train loss 1.8414, val loss 1.9435
+step 2500: train loss 1.8189, val loss 1.9460
+step 2600: train loss 1.8257, val loss 1.9360
+step 2700: train loss 1.8166, val loss 1.9388
+step 2800: train loss 1.8047, val loss 1.9241
+step 2900: train loss 1.8038, val loss 1.9302
+step 3000: train loss 1.7994, val loss 1.9273
+step 3100: train loss 1.7691, val loss 1.9208
+step 3200: train loss 1.7552, val loss 1.9127
+step 3300: train loss 1.7575, val loss 1.9073
+step 3400: train loss 1.7556, val loss 1.8987
+step 3500: train loss 1.7426, val loss 1.8972
+step 3600: train loss 1.7254, val loss 1.8893
+step 3700: train loss 1.7271, val loss 1.8792
+step 3800: train loss 1.7190, val loss 1.8918
+step 3900: train loss 1.7227, val loss 1.8721
+step 4000: train loss 1.7139, val loss 1.8590
+step 4100: train loss 1.7141, val loss 1.8773
+step 4200: train loss 1.7106, val loss 1.8677
+step 4300: train loss 1.7002, val loss 1.8494
+step 4400: train loss 1.7092, val loss 1.8675
+step 4500: train loss 1.6892, val loss 1.8489
+step 4600: train loss 1.6924, val loss 1.8351
+step 4700: train loss 1.6861, val loss 1.8449
+step 4800: train loss 1.6656, val loss 1.8434
+step 4900: train loss 1.6741, val loss 1.8404
+step 4999: train loss 1.6638, val loss 1.8210
+
+ROMEO:
+But you froth him, what wI mothur;
+Unterd Norn us.
+
+HASS IIII:
+Now where's grand, we
+livess of to thy! but too your not ond, lixtle.
+
+ANTOLYCUCEN MARWARD IV:
+
+What not:
+And Husaming, his by blord, it.
+
+CAPTUS:
+Good do yithre stres ssince them Those not.
+
+LUCIO:
+I am prove all it conforry his with the wile by us
+By thou sovour on thy futwas thriftate but grown to him, he's subdor!
+The kingly maid?
+
+POMPERLIZABEOL:
+Read it, wonldow Ie hear the comfed is thou,
+Ands man flown the honours! and enirs, you what slouce ways!
+What such towe staid us, of some passes us.
+
+BUCKINGHABEY:
+Mewere is some, I and pitace, now I lam:
+Sourt him, and that, let I make tow I late all that you by joyly us belies
+En mady that fleeper your his follow as
+see free where rie. Afford up doget, devanth more in?
+
+BRUS:
+What thou getrants.
+
+JOHUMN-
+O us I'll bear confent thyself, I am and he dlong
+would gary on arlip mistraigu, you, profrind take
+What sunced for unwits. But you fate not see? We with
+That thou broy;
+And me, what towards in on on that the would prevfect,
+I ward than was offights of Raustors,
+That broov tempend conton the love.
+
+ROMEO:
+If very all her.
+Must now sown own, sens' my connow meen
+Take of give mest him Soursed, old with the wretch, hearth reants his loves.
+You morning his rather is in Banishald
+On think, if beny thee, our how,
+And sendul's swented him:
+The steat, ir you: and death diern.
+
+3RARIOLANUS:
+May, I anders?
+And thou night will, we e slord:
+That me prown promanter's forth if took.
+Tuptress, so you lom if then, Raburiught atton:
+Which forgele not me; not there whope stentte,
+While fufter not; let to the hriart that brird
+of say mover a deserick which o' an themm to scit
+Was all have.
+
+Sether, have.
+
+HORTH:
+Wermy broughtle the bretcius unfeed that wine them.
+
+KING RAY:
+Hath, I winde on, iffillinor minger meep.
+twand, York these that high prauth all knmerp
+To the liadre up in them, maintryy, shavil too,
+As his good not bo'd and clight the bleass.
+
+COMEONTES:
+By 
